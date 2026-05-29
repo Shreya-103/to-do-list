@@ -51,7 +51,9 @@ h2{
     border: none;
 }
 .addWork:hover{
-    background-color: rgb(154, 19, 42);
+    background-color: rgb(169, 15, 40);
+}
+.addWork:active{
     transform: scale(1.1);
 }
 .listStyle{
