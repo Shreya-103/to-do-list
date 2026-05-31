@@ -10,6 +10,7 @@ A simple and interactive To-Do List application built using **HTML, CSS, and Jav
 * Mark tasks as completed using a checkbox.
 * Delete tasks with a single click.
 * Prevent empty tasks from being added.
+* Store tasks using Local Storage
 * Dashboard displaying:
 
   * Total number of tasks.
@@ -66,8 +67,6 @@ Examples:
 * **Keep it up!** → Some tasks completed.
 
 ## 🔮 Future Improvements
-
-* Store tasks using Local Storage.
 * Add task editing functionality.
 * Add due dates and priorities.
 * Dark/Light theme toggle.
